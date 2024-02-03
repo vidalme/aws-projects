@@ -1,1 +1,0 @@
-esse arquivo é exclusivo da apigtw_lambda
