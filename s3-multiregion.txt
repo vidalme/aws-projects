@@ -1,0 +1,1 @@
+arquivo unico da branch s3-multiregion
